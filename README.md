@@ -1,2 +1,2 @@
-# Documentation
+# API Documentation
 Coming soon...
