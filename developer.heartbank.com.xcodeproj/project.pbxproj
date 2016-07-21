@@ -6,11 +6,36 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		5EE635D71D406AE600601CF0 /* package.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		5EE635D81D406AE600601CF0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5EE635DA1D406AE600601CF0 /* app.test.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = app.test.js; sourceTree = "<group>"; };
+		5EE635DB1D406AE600601CF0 /* config.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = config.js; sourceTree = "<group>"; };
+		5EE635DC1D406AE600601CF0 /* index.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		5EE6F68C1D406AD400601CF0 /* app.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = app.js; sourceTree = "<group>"; };
+		5EE6F68D1D406AD400601CF0 /* app.yaml */ = {isa = PBXFileReference; lastKnownFileType = text; path = app.yaml; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		5E58858D1CDE47C700F428B8 = {
 			isa = PBXGroup;
 			children = (
+				5EE6F68C1D406AD400601CF0 /* app.js */,
+				5EE6F68D1D406AD400601CF0 /* app.yaml */,
+				5EE635D71D406AE600601CF0 /* package.json */,
+				5EE635D81D406AE600601CF0 /* README.md */,
+				5EE635D91D406AE600601CF0 /* test */,
 			);
+			sourceTree = "<group>";
+		};
+		5EE635D91D406AE600601CF0 /* test */ = {
+			isa = PBXGroup;
+			children = (
+				5EE635DA1D406AE600601CF0 /* app.test.js */,
+				5EE635DB1D406AE600601CF0 /* config.js */,
+				5EE635DC1D406AE600601CF0 /* index.js */,
+			);
+			path = test;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
