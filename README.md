@@ -8,6 +8,6 @@ We are a small nonprofit with a simple mission to bring more **peace** and **lov
 
 Users call `+1-800-59-THANK` to create a ***bitcoin wallet***. By texting various commands to this number, users can send bitcoins, create addresses to receive bitcoins, and more. Also, API endpoints are exposed for developers.
 
-- [Thank.HeartBank.org](https://github.com/HeartBank/thank.heartbank.org)
 - [Documentation](https://github.com/HeartBank/thank.heartbank.org/wiki/Introduction)
-- https://kiitos.heartbank.cloud
+- [Thank.HeartBank.org](http://thank.heartbank.org)
+- [Kiitos.HeartBank.cloud](https://kiitos.heartbank.cloud)
