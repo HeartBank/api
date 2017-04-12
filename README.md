@@ -10,4 +10,4 @@ Users call `+1-800-59-THANK` to create a ***bitcoin wallet***. By texting variou
 
 - [Documentation](https://github.com/HeartBank/thank.heartbank.org/wiki/Introduction)
 - [Thank.HeartBank.org](http://thank.heartbank.org)
-- [Kiitos.HeartBank.cloud](https://kiitos.heartbank.cloud)
+- https://kiitos.heartbank.cloud
